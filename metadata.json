@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Chamados - Manutenção Industrial",
+  "description": "Sistema completo para abertura e encerramento de chamados de manutenção mecânica com login para Operador e Mecânico, e integração com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
